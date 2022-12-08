@@ -1,0 +1,15 @@
+The steps are:
+
+Import the necessary modules, including Selenium, ChromeDriverManager, LinkedinEasyApply, and YAML.
+
+Define a method to initialize the Chrome webdriver with options to improve performance and compatibility.
+
+Define a method to validate the input parameters from the configuration file.
+
+Define a method to login to LinkedIn using the provided credentials.
+
+Define a method to perform a customizable job search on LinkedIn using the LinkedinEasyApply module.
+
+Define a method to apply to jobs on LinkedIn using the LinkedinEasyApply module.
+
+Define the main method that will execute the job scraper.
